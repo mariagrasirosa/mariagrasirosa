@@ -4,7 +4,7 @@
 
 <h1>Hello, I'm Maria!!! 😊</h1>
 
-<p align-itens="center">Mother of pets Olívia e Pérola, and girlfriend of @Welliwillers, my reference at programmation </br>
+<p align-itens="center">Mother of pets Olívia e Pérola, and girlfriend of @WelliWillers, my reference at programmation </br>
 I am constantly looking for new challenges and knowledge for my personal and professional development</p>
 </div>
  
