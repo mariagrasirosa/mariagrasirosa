@@ -2,7 +2,7 @@
 
 <h1>Hello, welcome!!! 😊</h1>
 
-<p align-itens="center">I'm a developer, study Computer Science and English.</p>
+<p align-itens="center">I'm a developer, study Computer Science, Oracle Apex and English.</p>
 </div>
   <div align="center" style="display: inline_block"></br>
   <h3>Languages and Technologies</h3>
